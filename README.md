@@ -1,1 +1,1 @@
-# data_analysis_project1
+# customer_purchase_data_analysis
